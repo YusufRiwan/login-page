@@ -1,0 +1,25 @@
+.image-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+   
+    width: 100px;
+    height: auto;
+
+}
+.text-right{
+    text-align: right;
+}
+.social-logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.s-logo{
+    width: 30px;
+    height: auto;
+}
